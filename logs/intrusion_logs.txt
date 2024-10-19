@@ -1,0 +1,3 @@
+timestamp,source_ip,destination_ip,threat_level
+2024-10-19 18:30,192.168.1.100,192.168.1.1,High
+2024-10-19 19:00,192.168.1.101,192.168.1.1,Medium
