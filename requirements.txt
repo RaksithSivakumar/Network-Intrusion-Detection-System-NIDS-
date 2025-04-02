@@ -1,0 +1,21 @@
+# Streamlit for the dashboard interface
+streamlit
+
+# Pandas and NumPy for data processing and analysis
+pandas
+numpy
+
+# Scapy for network traffic analysis
+scapy
+
+# Watchdog for monitoring file changes (if needed)
+watchdog
+
+# PyYAML for configuration management
+pyyaml
+
+# Requests for handling network requests (optional, if required)
+requests
+
+# Schedule for implementing heartbeat functionality
+schedule
